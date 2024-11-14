@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YhadiraSz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=YhadiraSz&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=YhadiraSz&theme=radical&column=3&no-bg=false&row=1&no-frame=true&margin-w=4&margin-h=1" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YhadiraSz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=YhadiraSz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=YhadiraSz&theme=radical&column=6&row=1&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<img align="right" height="120" src="https://i.pinimg.com/736x/dd/bb/77/ddbb77a13beb466aac088645ea2e9575.jpg"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/b1bc2ad21bd75e99f75a13e5cd8efc4cd3f2c3a5e8f4c14457f359a2c752b26c/68747470733a2f2f692e70696e696d672e636f6d2f373336782f64642f62622f37372f64646262373761313362656234363661616330383836343565613265393537352e6a7067"  />
 
 ###
 
