@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YhadiraSz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=YhadiraSz&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=YhadiraSz&theme=radical&column=6&row=1&no-frame=true&no-bg=false&margin-w=2&margin-h=2" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=YhadiraSz&theme=radical&column=5&row=1&no-frame=true&no-bg=false&margin-w=2&margin-h=2" height="150" alt="trophy graph"  />
 </div>
 
 ###
