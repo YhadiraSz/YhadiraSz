@@ -1,4 +1,5 @@
-<h2 align="left">- 👋 Hola, soy Yhadira<br>- 👩‍💻 Dev que ama React<br>- 🎨 Creo diseños web que destacan y funcionan<br>- 🚀 Siempre buscando hacer la web más divertida y dinámica<br>- 💡 Transformo ideas en experiencias visuales</h2>
+<h2 align="center">👩‍💻 Desarrolladora Web enfocada en crear aplicaciones seguras, funcionales y bien diseñadas</h2>
+
 
 ###
 
