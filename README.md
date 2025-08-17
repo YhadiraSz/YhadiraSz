@@ -1,4 +1,4 @@
-<h2 align="center">👩‍💻 Desarrolladora Web enfocada en crear aplicaciones seguras, funcionales y bien diseñadas</h2>
+<h2 align="center">React>>>>/h2>
 
 
 ###
