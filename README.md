@@ -1,4 +1,4 @@
-<h2 align="center">React>>>>/h2>
+<h2 align="center">React > Angular</h2>
 
 
 ###
